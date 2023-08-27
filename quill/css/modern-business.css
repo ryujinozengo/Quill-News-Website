@@ -1,0 +1,54 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+ body {
+  padding-top: 54px;
+  background-color: beige; /* Dark Blue Background */
+  color: #1a1a2e; /* Beige Font Color */
+  font-family: Arial, sans-serif; /* You can change the font-family as needed */
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+/* Tangerine Accent Color */
+.tangerine-accent {
+  color: #ff5733; /* Tangerine color */
+  border-color: #ff5733; /* Tangerine color for borders if applicable */
+}
+
+/* Modern button style */
+.btn {
+  background-color: #ff5733; /* Tangerine color */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #e6481d; /* Darker shade for hover effect */
+}
+
