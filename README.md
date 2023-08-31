@@ -1,7 +1,7 @@
 # Quill-News-Website
 Quill is an innovative news platform that seamlessly blends cutting-edge features with an elegant user experience. With an array of functionalities including a robust search engine, interactive comment threads, and effortless shareability options, Quill empowers users to engage with news stories like never before. Our meticulously designed admin panel provides unparalleled control, enabling hassle-free article posting, streamlined comment approval processes, and the seamless management of both sub-administrators and dynamic content categories. Quill isn't just a news website; it's a comprehensive information ecosystem that redefines how news is consumed, shared, and managed, making every interaction an exceptional experience.
 
-
+# Images
 ![Quill  (1)](https://github.com/ryujinozengo/Quill-News-Website/assets/131596281/1b3babc2-e7ba-4720-b20e-03fdcd16dbcb)
 ![Quill  (2)](https://github.com/ryujinozengo/Quill-News-Website/assets/131596281/80dd1a1a-1c5d-4ac5-8aff-0b4a20b1aa47)
 ![Quill  (3)](https://github.com/ryujinozengo/Quill-News-Website/assets/131596281/0546393e-ea2f-4891-b6e7-e4f57f1322b5)
